@@ -1,10 +1,10 @@
-### <div align="center">I'm Flávio Pimenta, a Solutions Architect and Technical Account Manager 👨‍💻 working on <a href="https://www.darede.com.br">Darede 🚀</a></div>  
+### <div align="center">I'm Flávio Pimenta, Staff Engineer 👨‍💻 working on <a href="https://selectsolucoes.com">Select Soluções 🚀</a></div>  
   
 
 - 🔭 I’m AWS Community Builder, AWS User Group Leader, Elastic User Group Leader, DevTestsBR Leader, TDC Technical Committee...😆  
   
 
-- 🌱 I’m currently learning AWS WA Tool.  
+- 🌱 I’m currently learning Multiples Agents and MCP with AWS Bedrock.  
   
 
 - ❓ Ask me about anything related to AWS, Finops, Devops, microservices, APIs !  
